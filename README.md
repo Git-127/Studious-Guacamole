@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> *Fetching today's quote...*
+> "I Paint Self-Portraits Because I Am So Often Alone, Because I Am The Person I Know Best." — Frida Kahlo
 
 ---
 
@@ -68,4 +68,4 @@ Within a minute you'll see a new commit on your main branch.
 
 ## License
 
-MIT – do whatever you want with the code. Go build your own automated quote machine, or turn it into a daily dad-joke.
+MIT – do whatever you want with the code. Go build your own automated quote machine, or turn it into a daily dad-joke bot.
