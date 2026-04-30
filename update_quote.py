@@ -1,7 +1,10 @@
 import requests
 import datetime
+import time
 import random
 
+delay_minutes = random.randint(0, 55)
+time.sleep(delay_minutes * 60)
 SKIP_PROBABILITY = 0.6
 
 def should_skip():
