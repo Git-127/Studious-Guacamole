@@ -1,16 +1,12 @@
 import requests
 import datetime
-import time
 import random
 
-delay_minutes = random.randint(0, 55)
-time.sleep(delay_minutes * 60)
 SKIP_PROBABILITY = 0.6
 
-if datetime.datetime.today().weekday() >= 5:
-    exit(0)
-
 def should_skip():
+    if datetime.datetime.today().weekday() >= 5:
+        return True
     return random.random() < SKIP_PROBABILITY
 
 def get_quote():
@@ -102,7 +98,7 @@ MIT – do whatever you want with the code. Go build your own automated quote ma
 
 if __name__ == "__main__":
     if should_skip():
-        print("Skipping this run (random choice). No commit will be made.")
+        print("Skipping this run (random choice or weekend). No commit will be made.")
     else:
         quote = get_quote()
         update_readme(quote)
