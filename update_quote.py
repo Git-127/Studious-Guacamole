@@ -7,6 +7,9 @@ delay_minutes = random.randint(0, 55)
 time.sleep(delay_minutes * 60)
 SKIP_PROBABILITY = 0.6
 
+if datetime.datetime.today().weekday() >= 5:
+    exit(0)
+
 def should_skip():
     return random.random() < SKIP_PROBABILITY
 
