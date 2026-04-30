@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "If You Go On With This Nuclear Arms Race, All You Are Going To Do Is Make The Rubble Bounce." - Winston Churchill
+> "How Hard, How Bitter It Is To Become A Man!" - Albert Camus
 
 ---
 
