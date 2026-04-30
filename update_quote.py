@@ -1,5 +1,11 @@
 import requests
 import datetime
+import random
+
+SKIP_PROBABILITY = 0.3
+
+def should_skip():
+    return random.random() < SKIP_PROBABILITY
 
 def get_quote():
     url = "https://dummyjson.com/quotes/random"
@@ -7,9 +13,9 @@ def get_quote():
         response = requests.get(url)
         response.raise_for_status()
         data = response.json()
-        return f'"{data["quote"]}" - {data["author"]}'
+        return f'"{data["quote"]}" — {data["author"]}'
     except Exception as e:
-        return '"Code is like humor. When you have to explain it, it’s bad." - Cory House'
+        return '"Code is like humor. When you have to explain it, it’s bad." — Cory House'
 
 def update_readme(quote):
     date_str = datetime.datetime.now().strftime("%Y-%m-%d %H:%M UTC")
@@ -89,6 +95,9 @@ MIT – do whatever you want with the code. Go build your own automated quote ma
         f.write(readme_content)
 
 if __name__ == "__main__":
-    quote = get_quote()
-    update_readme(quote)
-    print("README.md updated successfully!")
+    if should_skip():
+        print("Skipping this run (random choice). No commit will be made.")
+    else:
+        quote = get_quote()
+        update_readme(quote)
+        print("README.md updated successfully!")
