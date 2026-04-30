@@ -2,7 +2,7 @@ import requests
 import datetime
 import random
 
-SKIP_PROBABILITY = 0.3
+SKIP_PROBABILITY = 0.6
 
 def should_skip():
     return random.random() < SKIP_PROBABILITY
