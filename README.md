@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "The End Of Life Is To Be Like God, And The Soul Following God Will Be Like Him." — Socrates
+> "He who builds a masjid in the way of Allah, God will build a house for him in the paradise." — Abu Bakr (R.A)
 
 ---
 
