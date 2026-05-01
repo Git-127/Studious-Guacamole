@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "It is a matter of shame that in the morning the birds should be awake earlier than you." — Abu Bakr (R.A)
+> "You cannot change your future, but you can change your habits, and surely your habits will change your future." — Abdul Kalam
 
 ---
 
