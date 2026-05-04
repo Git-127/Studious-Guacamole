@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "There is no Love greater than Love with no object. For then you, yourself, have become love, itself." — Rumi
+> "To Be Happy We Must Not Be Too Concerned With Others." — Albert Camus
 
 ---
 
