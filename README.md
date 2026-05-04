@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "To Be Happy We Must Not Be Too Concerned With Others." — Albert Camus
+> "Work As If You Were To Live A Hundred Years. Pray As If You Were To Die Tomorrow." — Benjamin Franklin
 
 ---
 
