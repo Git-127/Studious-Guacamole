@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Champions are not generated from the championship. Champion is generated from something they have in them, desires, dreams, and visions." — Muhammad Ali
+> "I will be patient till even patience tires of my patience." — Ali ibn Abi Talib (R.A)
 
 ---
 
