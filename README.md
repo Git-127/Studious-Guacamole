@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "The vision of the eye is limited; the vision of the heart transcends all barriers of time and space." — Ali ibn Abi Talib (R.A)
+> "I am so mad with love that mad men say to me - be still!" — Rumi
 
 ---
 
