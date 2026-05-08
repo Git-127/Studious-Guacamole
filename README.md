@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "We are all born with a divine fire in us. Our efforts should be to give wings to this fire and fill the world with the glow of its goodness." — Abdul Kalam
+> "The Undiscovered Country From Whose Bourn No Traveler Returns." — William Shakespeare
 
 ---
 
