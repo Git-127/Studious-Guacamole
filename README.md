@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Nature Hath Framed Strange Fellows In Her Time." — William Shakespeare
+> "I don't always know what I'm talking about, but I know I'm right." — Muhammad Ali
 
 ---
 
