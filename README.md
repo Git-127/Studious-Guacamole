@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "At the end of my life, with just one breath left, if you come, I'll sit up and sing." — Rumi
+> "The Roots Of Education Are Bitter, But The Fruit Is Sweet." — Aristotle
 
 ---
 
